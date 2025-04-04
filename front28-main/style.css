@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swa');
+
+
+body{
+  background-color:rgb(255, 7, 160);
+  color:rgb(0, 0, 0);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+  
+  
+}
+
+.conteiner{
+  max-width:920px;
+  margin:20px; 
+  padding: 20px auto;
+  background-color: azure;
+  border-radius: 5px;
+  box-shadow: 0 0 10px black(0, 0 ,0,1);
+  position: relative; /* necessário para possionar o menu flutuante*/
+
+}
